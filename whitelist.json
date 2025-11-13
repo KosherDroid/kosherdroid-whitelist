@@ -7,7 +7,7 @@
   "com.konylabs.capitalone Banking",
   "com.chase.sig.android Banking",
   "com.ubercab.uberlite Transportation",
-  "com.ubercab.eats Transportation",
+  "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.png|Transportation",
   "com.waze Transportation",
   "com.tranzmate Transportation",
   "com.yaschaffel.spotmobile Transportation",
@@ -17,10 +17,10 @@
   "com.google.android.contacts Productivity",
   "com.google.android.apps.photosgo Productivity",
   "com.google.android.inputmethod.latin Productivity",
-  "com.google.android.apps.messaging Productivity",
   "com.notien Productivity",
   "com.smartlistphone Productivity",
   "com.synctech.smsbackup Productivity",
   "com.zing.app Communication",
   "com.weowow.weather Weather"
 ]
+
