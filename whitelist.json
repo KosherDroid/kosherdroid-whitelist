@@ -5,7 +5,7 @@
   "tfilon.tfilon Religious",
   "com.tehilim.book Religious",
   "com.ubercab.uberlite Transportation",
-  "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
+  "Uber Eats|com.kosherdroid.ubereats|0.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
   "com.waze Transportation",
   "com.tranzmate Transportation",
   "com.yaschaffel.spotmobile Transportation",
@@ -21,6 +21,7 @@
   "com.zing.app Communication",
   "com.weowow.weather Weather"
 ]
+
 
 
 
