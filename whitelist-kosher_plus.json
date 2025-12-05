@@ -1,7 +1,6 @@
 [
   "com.gindin.zmanim.android Calendar",
   "com.lionscribe.hebdate Calendar",
-  "com.karriapps.smartsiddurlite Religious",
   "tfilon.tfilon Religious",
   "com.tehilim.book Religious",
   "com.ubercab.uberlite Transportation",
@@ -22,6 +21,7 @@
   "app.tfs.prod Audio",
   "com.weowow.weather Weather"
 ]
+
 
 
 
