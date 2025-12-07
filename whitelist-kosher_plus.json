@@ -12,7 +12,7 @@
   "com.yaschaffel.spotmobile Audio",
   "com.google.android.projection.gearhead Productivity",
   "com.google.android.calculator Productivity",
-  "com.google.android.gm.lite Productivity",
+  "com.google.android.gm Productivity",
   "com.google.android.deskclock Productivity",
   "com.google.android.contacts Productivity",
   "com.google.android.apps.photosgo Productivity",
@@ -24,6 +24,7 @@
   "app.tfs.prod Audio",
   "com.weowow.weather Weather"
 ]
+
 
 
 
