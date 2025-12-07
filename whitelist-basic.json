@@ -2,6 +2,8 @@
   "com.gindin.zmanim.android Calendar",
   "com.lionscribe.hebdate Calendar",
   "tfilon.tfilon Religious",
+  "com.honeystone.tefilat_haderech Religious",
+  "com.google.android.gms system",
   "com.tehilim.book Religious",
   "com.waze Transportation",
   "com.google.android.projection.gearhead Productivity",
