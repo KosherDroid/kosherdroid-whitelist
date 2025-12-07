@@ -3,6 +3,8 @@
   "com.lionscribe.hebdate Calendar",
   "tfilon.tfilon Religious",
   "com.tehilim.book Religious",
+  "com.honeystone.tefilat_haderech Religious",
+  "com.google.android.gms system",
   "com.ubercab.uberlite Transportation",
   "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
   "Capital One|com.kosherdroid.capitalone|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/CapitalOneWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/capitalone.webp|Banking",
