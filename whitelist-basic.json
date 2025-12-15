@@ -1,6 +1,6 @@
 [
-  "com.gindin.zmanim.android Calendar",
-  "com.lionscribe.hebdate Calendar",
+  "com.gindin.zmanim.android Religious",
+  "com.lionscribe.hebdate Religious",
   "tfilon.tfilon Religious",
   "com.honeystone.tefilat_haderech Religious",
   "com.google.android.gms system",
@@ -15,5 +15,6 @@
   "notes.notepad.checklist.calendar.todolist.notebook Productivity",
   "com.lionscribe.elist Productivity",
   "com.riteshsahu.SMSBackupRestore Productivity",
-  "com.weowow.weather Weather"
+  "com.weowow.weather Weather",
+  "in.krosbits.musicolet Productivity"
 ]
