@@ -1,6 +1,6 @@
 [
-  "com.gindin.zmanim.android Calendar",
-  "com.lionscribe.hebdate Calendar",
+  "com.gindin.zmanim.android Religious",
+  "com.lionscribe.hebdate Religious",
   "tfilon.tfilon Religious",
   "com.tehilim.book Religious",
   "com.honeystone.tefilat_haderech Religious",
@@ -9,7 +9,6 @@
   "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
   "com.waze Transportation",
   "com.tranzmate Transportation",
-  "com.yaschaffel.spotmobile Audio",
   "com.google.android.projection.gearhead Productivity",
   "com.google.android.calculator Productivity",
   "com.google.android.gm Productivity",
@@ -20,10 +19,13 @@
   "notes.notepad.checklist.calendar.todolist.notebook Productivity",
   "com.lionscribe.elist Productivity",
   "com.riteshsahu.SMSBackupRestore Productivity",
+  "in.krosbits.musicolet Productivity",
+  "com.yaschaffel.spotmobile Audio",
   "fm.jewishmusic.application Audio",
   "app.tfs.prod Audio",
   "com.weowow.weather Weather"
 ]
+
 
 
 
