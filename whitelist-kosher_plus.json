@@ -25,9 +25,10 @@
   "com.yaschaffel.spotmobile Audio",
   "fm.jewishmusic.application Audio",
   "app.tfs.prod Audio",
-  "com.weowow Weather",
+  "Weather|com.weowow|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/weawow.apk|https://appstore.kosherdroid.com/app-store-web/icons/weawow.webp|Weather",
   "org.fossify.phone Productivity"
 ]
+
 
 
 
