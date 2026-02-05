@@ -6,7 +6,7 @@
   "com.honeystone.tefilat_haderech Religious",
   "com.google.android.gms system",
   "com.ubercab.uberlite Transportation",
-  "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
+  "Uber Eats|com.kosherdroid.ubereats|.5|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
   "com.waze Transportation",
   "com.tranzmate Transportation",
   "com.google.android.projection.gearhead Productivity",
@@ -28,6 +28,6 @@
   "com.weowow Weather",
   "org.fossify.phone Productivity",
   "Capital One|com.kosherdroid.capitalone|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/CapitalOneWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/capitalone.webp|Banking",
-  "Chase|com.kosherdroid.chase|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/ChaseWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/chase.webp|Banking"
+  "Chase|com.kosherdroid.chase|.5|https://appstore.kosherdroid.com/app-store-web/apk_files/ChaseWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/chase.webp|Banking"
   
 ]
