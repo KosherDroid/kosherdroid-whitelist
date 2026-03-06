@@ -25,10 +25,11 @@
   "com.yaschaffel.spotmobile Audio",
   "fm.jewishmusic.application Audio",
   "app.tfs.prod Audio",
+  "Setup|com.kosherdroid.setup|2.2|https://appstore.kosherdroid.com/app-store-web/apk_files/setup.apk|https://appstore.kosherdroid.com/app-store-web/icons/.webp|system",
   "Weather|com.weawow|.5|https://appstore.kosherdroid.com/app-store-web/apk_files/weawow.apk|https://appstore.kosherdroid.com/app-store-web/icons/weawow.webp|Weather",
-  "org.fossify.phone Productivity",
-  "Setup|com.kosherdroid.setup|2.2|https://appstore.kosherdroid.com/app-store-web/apk_files/setup.apk|https://appstore.kosherdroid.com/app-store-web/icons/.webp|system"
+  "org.fossify.phone Productivity"
 ]
+
 
 
 
