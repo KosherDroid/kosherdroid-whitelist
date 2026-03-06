@@ -2,6 +2,7 @@
   "com.gindin.zmanim.android Religious",
   "tfilon.tfilon Religious",
   "com.tehilim.book Religious",
+  "com.lionscribe.hebdate Religious",
   "com.honeystone.tefilat_haderech Religious",
   "com.google.android.gms system",
   "Uber Eats|com.kosherdroid.ubereats|1.0|https://appstore.kosherdroid.com/app-store-web/apk_files/UberEatsWeb.apk|https://appstore.kosherdroid.com/app-store-web/icons/uber-eats.webp|Transportation",
@@ -28,6 +29,7 @@
   "org.fossify.phone Productivity",
   "Setup|com.kosherdroid.setup|2.2|https://appstore.kosherdroid.com/app-store-web/apk_files/setup.apk|https://appstore.kosherdroid.com/app-store-web/icons/.webp|system"
 ]
+
 
 
 
